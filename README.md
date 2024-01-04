@@ -6,7 +6,7 @@
   <img src='https://img.shields.io/badge/cheerio-1.0.0-yellow' />
 </div>
 
-[文章地址](https://gwt9502.free.hr/blog/use-node-reptile)
+[文章地址](https://199406.xyz/blog/use-node-reptile)
 
 ```sh
 pnpm install && node index.js
